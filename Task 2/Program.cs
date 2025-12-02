@@ -8,7 +8,7 @@ namespace Task2
             // question1
             CustomDelegate.Calculate calc = CustomDelegate.Add;
             Console.WriteLine("Addition: " + calc(10, 5));
-
+             
             calc = CustomDelegate.Subtract;
             Console.WriteLine("Subtraction: " + calc(10, 5));
 
