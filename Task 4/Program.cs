@@ -44,14 +44,14 @@ class Program
         // Question 3
         Student[] students =
         [
-            new Student("Debina", new DateOnly(2004, 12, 2), "Male"),
-            new Student("Subu", new DateOnly(2004, 3, 5), "Male"),
-            new Student("Sandhya", new DateOnly(2006, 7, 23), "Male"),
+            new Student("Debina", new DateOnly(2004, 12, 2), "Female"),
+            new Student("Subu", new DateOnly(2004, 3, 5), "Female"),
+            new Student("Sandhya", new DateOnly(2006, 7, 23), "Female"),
             new Student("Lanee", new DateOnly(2005, 11, 9), "Female"),
-            new Student("Shailja", new DateOnly(2004, 2, 17), "Male"),
-            new Student("David", new DateOnly(2006, 9, 30), "Female"),
+            new Student("Shailja", new DateOnly(2004, 2, 17), "Female"),
+            new Student("David", new DateOnly(2006, 9, 30), "Male"),
             new Student("Prince", new DateOnly(2005, 4, 14), "Male"),
-            new Student("Rajendra", new DateOnly(2004, 12, 1), "Female"),
+            new Student("Rajendra", new DateOnly(2004, 12, 1), "Male"),
             new Student("Mausam", new DateOnly(2006, 6, 8), "Male"),
             new Student("Kamana", new DateOnly(2005, 8, 21), "Female")
         ];
